@@ -6,7 +6,29 @@ position: absolute;
 top: 50px;
 left:570px;
 }
-
+.startEat{
+width: 50px;
+height: 20px;
+background-color: #ffffff; ;
+position: absolute;
+top: 100px;
+left:570px;
+}
+.mirrorY { transform: scale(-1, 1); }
+.tongue {
+width: 23px;
+height: 35px;
+position: absolute;
+top: 305px;
+z-index: 2;
+left: 203px;
+}
+.tongue1{
+left: 221px;
+top: 340px;
+width: 3px;
+height: 30px;
+}
 .flyAria {
 width: 500px;
 height: 350px;
