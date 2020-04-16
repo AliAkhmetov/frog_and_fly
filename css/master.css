@@ -1,0 +1,44 @@
+.startFly{
+width: 50px;
+height: 20px;
+background-color: #ffffff; ;
+position: absolute;
+top: 50px;
+left:570px;
+}
+
+.flyAria {
+width: 500px;
+height: 350px;
+background-color: blue;
+position: absolute;
+top: 0px;
+left:0px;
+}
+
+.fly{
+width: 50px;
+height: 50px;
+background-color: blue; ;
+position: absolute;
+top: 50px;
+left:0px;
+}
+
+.frog{
+width: 100px;
+height: 100px;
+background-color: green;
+position: absolute;
+top: 20px;
+left: 180px;
+}
+
+.frogAria{
+width: 500px;
+height: 150px;
+background-color: green;
+position: absolute;
+top: 350px;
+left: 0px;
+}
